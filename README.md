@@ -34,7 +34,7 @@
 
 ---
 
-<p align="center" style="color:orange;">Feito com 💻 e ☕ por [Seu Nome]</p>
+<p align="center" style="color:orange;">Feito com 💻 e ☕ por Milton Machado </p>
 
 
 
